@@ -22,7 +22,7 @@ python webscrape1.py
 
 Description: In this assignment, we have scraped the Wikipedia page of top most populous US Cities. We have written the scraped content data into a UTF-8 Csv file which is ready to be uploaded on the BigQuery table.
 
-Additionally, we also have scraped data from the second table of the page, and gathered the links of all cities and states, and displayed the scraped content data found on the webpages of first four links and wrote it in the csv file.
+Additionally, we also have scraped data from the additional table of the page, and gathered the links of all cities and states, and displayed the scraped content data found on the webpages of first four links and wrote it in the csv file.
 
 References:
 
