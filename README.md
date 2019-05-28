@@ -24,3 +24,10 @@ Description: In this assignment, we have scraped the Wikipedia page of top most 
 
 Additionally, we also have scraped data from the second table of the page, and gathered the links of all cities and states, and displayed the scraped content data found on the webpages of first four links and wrote it in the csv file.
 
+References:
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+https://pypi.org/project/beautifulsoup4/
+
+http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/
