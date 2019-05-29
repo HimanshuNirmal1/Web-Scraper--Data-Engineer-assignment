@@ -20,7 +20,7 @@ Windows prompt: pip install beautifulsoup4, pip install requests
 How to run: Run it like any other python program. 
 python webscrape1.py
 
-Description: In this assignment, we have scraped the Wikipedia page of top most populous US Cities. We have written the scraped content data into a UTF-8 Csv file which is ready to be uploaded on the BigQuery table.
+Description: In this assignment, we have scraped the Wikipedia page of top most populous US Cities. We have written the scraped content data into a UTF-8 Csv file (standard format for BigQuery table) which is ready to be uploaded on the BigQuery table.
 
 Additionally, we also have scraped data from the additional table of the page, and gathered the links of all cities and states, and displayed the scraped content data found on the webpages of first four links and wrote it in the csv file.
 
