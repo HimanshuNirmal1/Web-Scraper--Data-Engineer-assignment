@@ -8,7 +8,7 @@ Technologies used: Python 3.7
 Libraries used: BeautifulSoup, requests and csv
 Environments used: Anaconda-Spyder
 
-Before scraping, see permission from the website that you are going to scrape from. At the end of the website’s main page, add ‘robot.txt’ to see permissions.
+Before scraping, see permission from the website that you are going to scrape from. At the end of the website’s main page url, add ‘robot.txt’ to see permissions.
 robots.txt is a standard used by websites to communicate with web crawlers and other web robots. The standard specifies how to inform the web robot about which areas of the website should not be processed or scanned.
 
 If you do not have BeautifulSoup and requests, simply download them by typing following command in your command prompt:
